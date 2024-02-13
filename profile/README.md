@@ -1,4 +1,4 @@
-![LeanCode banner GitHub](./banner.png)
+![LeanCode banner GitHub](./profile/banner.png)
 
 # Hello
 
